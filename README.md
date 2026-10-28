@@ -1,5 +1,7 @@
 # Camera Calibration Toolkit
 
+![camera calibration planned workflow](docs/planned-workflow.svg)
+
 This repository is intended to document a camera-calibration toolkit using ArUco markers. The proposed workflow covers board generation, calibration image capture, intrinsic and extrinsic parameter estimation, and visual validation by projecting points into an image.
 
 ## Repository status
